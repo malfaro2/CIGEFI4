@@ -1,8 +1,8 @@
-# Trends in Central America: A Spatial Correlation Analysis
+# Central American Climate Trends - CLIMDEX: A Spatial Correlation Analysis
 
 This is the code for [paper reference](). Originally written by [Marcela Alfaro](https://github.com/malfaro2), data and code curated by [Natali Mora](https://github.com/nataliemora)
 
-See Shiny App in here: https://malfaro18.shinyapps.io/mapas/ -- falta corregir !
+See Shiny App in here: [https://malfaro18.shinyapps.io/mapas](https://malfaro18.shinyapps.io/mapas/)
 
 Contents:
 
