@@ -1,4 +1,4 @@
-# Central American Climate Trends - CLIMDEX: A Spatial Correlation Analysis
+# Central American Climate Extreme Trends: a statistical analysis of CLIMDEX indices
 
 This is the code for [paper reference](). Originally written by [Marcela Alfaro](https://github.com/malfaro2), data and code curated by [Natali Mora](https://github.com/nataliemora)
 
