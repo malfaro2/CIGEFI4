@@ -2,7 +2,7 @@
 
 This is the code for [paper reference](). Originally written by [Marcela Alfaro](https://github.com/malfaro2), data and code curated by [Natali Mora](https://github.com/nataliemora)
 
-See Shiny App in here: [https://malfaro18.shinyapps.io/mapas](https://malfaro18.shinyapps.io/mapas/)
+See Shiny App in here: [https://macordob.shinyapps.io/cigefi_shiny/](https://macordob.shinyapps.io/cigefi_shiny/)
 
 Contents:
 
